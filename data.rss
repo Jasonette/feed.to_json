@@ -1,0 +1,154 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/2.2.1" -->
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	>
+
+<channel>
+	<title>RSS blog</title>
+	<link>http://rssblog.whatisrss.com</link>
+	<description>From Understanding to Using RSS</description>
+	<pubDate>Sat, 31 Jul 2010 19:35:36 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.2.1</generator>
+	<language>en</language>
+			<item>
+		<title>RSS Books</title>
+		<link>http://rssblog.whatisrss.com/rss-books/</link>
+		<comments>http://rssblog.whatisrss.com/rss-books/#comments</comments>
+		<pubDate>Sat, 31 Jul 2010 19:35:36 +0000</pubDate>
+		<dc:creator>What is RSS?</dc:creator>
+		
+		<category><![CDATA[RSS]]></category>
+
+		<guid isPermaLink="false">http://rssblog.whatisrss.com/rss-books/</guid>
+		<description><![CDATA[Here are some current books on RSS. 
+Syndicating Web Sites with RSS Feeds For Dummies by Ellen Finkelstein
+Developing Feeds with Rss and Atom by Ben Hammersley
+RSS for Educators: Blogs, Newsfeeds, Podcasts, and Wikis in the Classroom by John G. Hendron
+RSS and Atom in Action: Web 2.0 Building Blocks by Dave Johnson
+Beginning RSS and Atom Programming [...]]]></description>
+			<content:encoded><![CDATA[<p>Here are some current books on RSS. </p>
+<p>Syndicating Web Sites with RSS Feeds For Dummies by Ellen Finkelstein</p>
+<p>Developing Feeds with Rss and Atom by Ben Hammersley</p>
+<p>RSS for Educators: Blogs, Newsfeeds, Podcasts, and Wikis in the Classroom by John G. Hendron</p>
+<p>RSS and Atom in Action: Web 2.0 Building Blocks by Dave Johnson</p>
+<p>Beginning RSS and Atom Programming by Danny Ayers</p>
+<p>Secrets of RSS by Steven Holzner</p>
+<p>RSS and Atom: Understanding and Implementing Content Feeds and Syndication by Heinz Wittenbrink</p>
+<p>Blogging and RSS: A Librarian&#8217;s Guide by Michael P. Sauers</p>
+<p>Beginning XML, 4th Edition (Programmer to Programmer) by David Hunter </p>
+<p>Full details on the books here:<br />
+<a href="http://astore.amazon.com/rss-books-20">RSS Books</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://rssblog.whatisrss.com/rss-books/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Massive List of RSS Resources</title>
+		<link>http://rssblog.whatisrss.com/rss-resources-list/</link>
+		<comments>http://rssblog.whatisrss.com/rss-resources-list/#comments</comments>
+		<pubDate>Mon, 30 Jul 2007 00:16:05 +0000</pubDate>
+		<dc:creator>What is RSS?</dc:creator>
+		
+		<category><![CDATA[RSS]]></category>
+
+		<category><![CDATA[RSS Resources]]></category>
+
+		<guid isPermaLink="false">http://rssblog.whatisrss.com/rss-resources-list/</guid>
+		<description><![CDATA[Mashable has put together a huge list of RSS Tools which includes:
+
+Windows RSS Readers
+OS X RSS Readers
+Linux RSS Readers
+Web-based RSS Readers
+Mobile RSS Readers
+RSS-to-email tools
+Feed Validators
+RSS-related Firefox plugins
+RSS plugins for Wordpress
+RSS Managers
+Tools for combining or mixing RSS feeds
+RSS ping tools
+RSS feed directories
+
+]]></description>
+			<content:encoded><![CDATA[<p>Mashable has put together a huge list of RSS Tools which includes:</p>
+<ul>
+<li>Windows RSS Readers</li>
+<li>OS X RSS Readers</li>
+<li>Linux RSS Readers</li>
+<li>Web-based RSS Readers</li>
+<li>Mobile RSS Readers</li>
+<li>RSS-to-email tools</li>
+<li>Feed Validators</li>
+<li>RSS-related Firefox plugins</li>
+<li>RSS plugins for Wordpress</li>
+<li>RSS Managers</li>
+<li>Tools for combining or mixing RSS feeds</li>
+<li>RSS ping tools</li>
+<li>RSS feed directories</li>
+</ul>
+<p> <a href="http://rssblog.whatisrss.com/rss-resources-list/#more-8" class="more-link">(more&#8230;)</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://rssblog.whatisrss.com/rss-resources-list/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Where to submit your RSS feeds &#8230;</title>
+		<link>http://rssblog.whatisrss.com/where-to-submit-your-rss-feeds/</link>
+		<comments>http://rssblog.whatisrss.com/where-to-submit-your-rss-feeds/#comments</comments>
+		<pubDate>Fri, 27 Jul 2007 01:54:09 +0000</pubDate>
+		<dc:creator>What is RSS?</dc:creator>
+		
+		<category><![CDATA[RSS]]></category>
+
+		<category><![CDATA[RSS Resources]]></category>
+
+		<guid isPermaLink="false">http://rssblog.whatisrss.com/where-to-submit-your-rss-feeds/</guid>
+		<description><![CDATA[Have a blog or other site that outputs an RSS feed? Want more exposure for your site or feed? Masternewmedia has compiled and regularly updates a list of websites where RSS feeds can be submitted. Each link has been tested and there is information on the website and how it works, as well as a [...]]]></description>
+			<content:encoded><![CDATA[<p>Have a blog or other site that outputs an RSS feed? Want more exposure for your site or feed? Masternewmedia has compiled and regularly updates a list of websites where RSS feeds can be submitted. Each link has been tested and there is information on the website and how it works, as well as a direct link to the feed submission page.</p>
+<p> <a href="http://rssblog.whatisrss.com/where-to-submit-your-rss-feeds/#more-6" class="more-link">(more&#8230;)</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://rssblog.whatisrss.com/where-to-submit-your-rss-feeds/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Where to get your RSS Feed Icons &#8230;</title>
+		<link>http://rssblog.whatisrss.com/rss-feed-icons/</link>
+		<comments>http://rssblog.whatisrss.com/rss-feed-icons/#comments</comments>
+		<pubDate>Thu, 26 Jul 2007 07:10:57 +0000</pubDate>
+		<dc:creator>What is RSS?</dc:creator>
+		
+		<category><![CDATA[RSS]]></category>
+
+		<category><![CDATA[RSS Resources]]></category>
+
+		<guid isPermaLink="false">http://rssblog.whatisrss.com/rss-feed-icons/</guid>
+		<description><![CDATA[Need a standard feed icon or a feed icon PSD so you can manipulate how the icon looks? 
+Mozilla Foundation has made RSS feed icons available to help feed links become more recognizable and standardized. Their guidelines and FAQ provide full information on the icon and how it should be used. 
+]]></description>
+			<content:encoded><![CDATA[<p><img src='http://rssblog.whatisrss.com/wp-content/uploads/2007/07/feed-icon-128x128.gif' alt='RSS Feed Icon' align='left' style='margin-right:3px;' />Need a standard feed icon or a feed icon PSD so you can manipulate how the icon looks? </p>
+<p>Mozilla Foundation has made RSS feed icons available to help feed links become more recognizable and standardized. Their <a href="http://www.mozilla.org/foundation/feed-icon-guidelines/">guidelines</a> and <a href="http://www.mozilla.org/foundation/feed-icon-guidelines/faq.html">FAQ</a> provide full information on the icon and how it should be used. </p>
+<p> <a href="http://rssblog.whatisrss.com/rss-feed-icons/#more-5" class="more-link">(more&#8230;)</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://rssblog.whatisrss.com/rss-feed-icons/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Yeah it is about time &#8230; WhatIsRSS.com gets a blog</title>
+		<link>http://rssblog.whatisrss.com/rss-blog/</link>
+		<comments>http://rssblog.whatisrss.com/rss-blog/#comments</comments>
+		<pubDate>Thu, 26 Jul 2007 05:12:56 +0000</pubDate>
+		<dc:creator>What is RSS?</dc:creator>
+		
+		<category><![CDATA[RSS]]></category>
+
+		<guid isPermaLink="false">http://rssblog.whatisrss.com/rss-blog/</guid>
+		<description><![CDATA[Back in December 2003 I put together an RSS primer called What is RSS? Lots of people have linked to to the resource as it is a fast and easy way to introduce RSS to website visitors. The content has been revised a couple of times but there have been many requests to extend the [...]]]></description>
+			<content:encoded><![CDATA[<p>Back in December 2003 I put together an RSS primer called <a href="http://www.whatisrss.com/">What is RSS?</a> Lots of people have linked to to the resource as it is a fast and easy way to introduce RSS to website visitors. The content has been revised a couple of times but there have been many requests to extend the content to provide more comprehensive information on RSS. Although many web users understand what a feed is or at least what it is for, there are still many who do not or could learn how to make better use of feeds.</p>
+<p><strong>Thats where this blog comes in.</strong></p>
+<p> <a href="http://rssblog.whatisrss.com/rss-blog/#more-3" class="more-link">(more&#8230;)</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://rssblog.whatisrss.com/rss-blog/feed/</wfw:commentRss>
+		</item>
+	</channel>
+</rss>
